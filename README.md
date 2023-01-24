@@ -1,4 +1,4 @@
-# Intelligent Systems Projects
+# Data Mining Projects
  Contents of each project
  ----------
 ## CA1 
